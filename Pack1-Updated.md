@@ -39,7 +39,77 @@ Depth created only using stacked isometric layers.
 Technical UI precision.
 ```
 
+
+## Example 2
+
+### 🖼 Image
+
+![Whisk_be4a6a5fea89c14ad5546c931d833d86dr](https://github.com/user-attachments/assets/4624ca9d-56c9-4520-86a8-4bf24ee0bdbf)
+
+### 📝 Prompt
+
+```text
+Security Shield Icon
+
+Isometric 3D technical illustration of a security shield icon only. Very light grey background. Exact same soft green and muted grey monochrome palette. Flat matte surfaces with subtle grainy edge texture. Thin dark outline strokes defining all geometry. Minimalistic, clean, structured composition.
+
+Camera framing: Ultra-tight crop. 95–100% canvas coverage. No margins. No outer whitespace. Outer geometry nearly touching all four canvas edges.
+
+Design:
+
+Large geometric shield plate built from layered stacked slabs.
+Centered lock symbol engraved into the surface.
+Edges slightly beveled for engineered feel.
+Shield perfectly symmetrical.
+
+No key.
+No glow.
+No particle effects.
+No connectors.
+
+No gradients.
+No dramatic lighting.
+No shadows.
+Depth created only through stacked isometric layers.
+Technical UI precision. Clean, solid, symbolic.
+```
+
 ---
+
+## Example 3
+
+### 🖼 Image
+
+![Whisk_c579c49f9c475ea9fb24abe14295deb1dr](https://github.com/user-attachments/assets/59ad3e90-c134-4229-8db3-7d9d89a015ff)
+
+
+```text
+Cloud Storage Icon
+
+Isometric 3D technical illustration of a cloud storage icon only. Very light grey background. Exact same soft green and muted grey monochrome palette. Flat matte surfaces with subtle grainy edge texture. Thin dark outline strokes defining all geometry. Minimalistic, clean, structured composition.
+
+Camera framing: Ultra-tight crop. 95–100% canvas fill. No margins. No outer whitespace. Outer geometry nearly touching all four canvas edges.
+
+Design:
+
+A geometric cloud constructed from stacked rounded rectangular blocks.
+Cloud shape engineered and symmetrical — not cartoon fluffy.
+Centered recessed rectangular plate engraved with text “DATA”.
+Base slightly thicker for structural weight.
+
+No floating arrows.
+No connectors.
+No glow.
+No extra elements.
+
+No gradients.
+No dramatic lighting.
+No external shadows.
+Depth only via stacked isometric layers.
+Clean architectural precision.
+
+```
+
 
 # 2️⃣ COMPONENT ANATOMY
 
