@@ -18,4 +18,32 @@ Isometric 3D technical illustration of a MacBook-style laptop only. Very light g
 
 <img width="1024" height="1024" alt="image (1)" src="https://github.com/user-attachments/assets/a10c4b1a-1694-489b-935f-c591a8684035" />
 
-#
+# Prompt 3
+```
+Isometric CPU – Same Style Prompt  Isometric 3D technical illustration of a CPU processor chip only. Very light grey background. Exact same soft green and muted grey monochrome palette. Flat surfaces with subtle grainy edge texture. Thin dark outline strokes defining all geometry. Minimalistic, clean, structured composition.  Camera framing: ultra-tight crop, zoomed-in framing. The CPU must fill 95–100% of the canvas edge-to-edge. No margins. No outer whitespace. No empty background areas. The outermost geometry must touch or nearly touch all four canvas edges. The bounding box of the CPU must align exactly with the canvas boundaries.  Design: Square processor chip in isometric perspective. Layered stacked structure to show subtle depth. Slight raised central core plate on top surface. Clean beveled edges. Evenly spaced micro contact pins or connector pads along all four sides (geometric simplified style, not overly detailed). Perfect symmetry.  Optional subtle engraved label on top center: “CPU” in clean thin technical font.  Pins/pads rendered as small uniform rectangular or square blocks. All connectors and small node details must be white or very light grey (#F0F0F0 or lighter). Never black.  No gradients. No dramatic lighting. No external shadows. Subtle depth using stacked isometric layers only. Technical UI precision. Compact geometry. No decorative elements.  The processor must feel engineered, mechanical, and precision-built. Clean vector accuracy.
+```
+# image 3
+
+<img width="1024" height="1024" alt="image (2)" src="https://github.com/user-attachments/assets/936fe5d3-a9d6-4971-9b46-719d79249e4e" />
+
+# Prompt 4
+
+```
+Isometric Human–Robot Interaction – Bit 3D Solid Style  Isometric 3D technical illustration. Very light grey background. Exact same soft green and muted grey monochrome palette. Flat matte surfaces with subtle grainy edge texture. Thin dark outline strokes defining all geometry. Minimalistic, clean, structured composition.  Character style: Solid Bit-3D forms. Smooth rounded geometric shapes. Soft edges but not glossy. No transparency. No crystal effect. No reflections. No glass. Matte finish only. Slightly friendly proportions inspired by animated 3D style, but simplified and mechanical. No facial details. No realistic anatomy.  Camera framing: ultra-tight crop, zoomed-in framing. Composition must fill 95–100% of the canvas edge-to-edge. No margins. No outer whitespace. No empty background areas. The outermost geometry must nearly touch all four canvas edges.  Scene: One geometric human figure standing and facing a robot in isometric perspective. Both scaled large and centered.  Human: Rounded block-style head, cylindrical limbs, softened rectangular torso. Clean segmentation. Neutral standing posture with one arm slightly raised as if asking or explaining something.  Robot: Humanoid but mechanical. Rounded head with a simple horizontal visor line (no glowing eyes). Boxy torso. Cylindrical arms and legs. Subtle panel divisions to suggest engineered construction. Friendly but structured.  Between them: Two compact isometric speech bubbles.  Human bubble: “What is AI?”  Robot bubble: “AI is intelligence simulated by machines.”  Speech bubbles are simple rounded rectangles in isometric view. No connector lines. No nodes. No floating UI elements. No diagrams.  Symmetrical and compact layout. Tight spacing. Clean alignment.  No gradients. No dramatic lighting. No external shadows. Depth created only using stacked isometric layers. Technical precision blended with soft Bit-3D character styling.  The final result must feel: Engineered. Clean. Modern. Friendly. Structured.
+
+```
+
+# image 4
+
+<img width="1024" height="1024" alt="image (3)" src="https://github.com/user-attachments/assets/658e0f92-bf87-4497-abb8-e2feca4d20cd" />
+
+# Prompt 5
+
+```
+sometric Human Leading Multiple AI Agents – Bit 3D Solid Style  Isometric 3D technical illustration. Very light grey background. Exact same soft green and muted grey monochrome palette. Flat matte surfaces with subtle grainy edge texture. Thin dark outline strokes defining all geometry. Minimalistic, clean, structured composition.  Character style: Solid Bit-3D forms. Smooth rounded geometric shapes. Matte finish only. No transparency. No glass. No crystal effect. No reflections. Slightly friendly animated proportions but mechanically simplified. No facial details.  Camera framing: Ultra-tight crop, zoomed-in framing. Composition must fill 95–100% of the canvas edge-to-edge. No margins. No outer whitespace. No empty background areas. Outer geometry nearly touching all four edges.  Scene Composition  Center (Main Subject):  One clearly human figure standing confidently in the exact center. Human proportions slightly more natural and balanced compared to robots. Rounded head. Softer torso shape. Cylindrical limbs. Strong grounded stance. Arms slightly open or one arm extended forward (leadership gesture).  The human must feel: Dominant. Organic. Decision-maker.  No mechanical panel lines on the human.  Surrounding Figures (AI Agents)  Three smaller humanoid robots positioned around the human in triangular symmetry:  • Left side • Right side • Slightly behind or slightly elevated  Robots must clearly look mechanical: • Boxier torso • Subtle panel divisions • Rounded head with simple horizontal visor strip • Slightly sharper geometry than human • Smaller scale to show hierarchy  Each robot performing a distinct task:  • Robot 1 → Holding floating data blocks • Robot 2 → Interacting with a rectangular dashboard panel • Robot 3 → Holding a small gear or analytics chart  No connector lines. No nodes. No network diagrams.  Spacing must be compact and controlled.  No gradients. No dramatic lighting. No external shadows. Depth created only using stacked isometric layers. Technical UI precision with soft Bit-3D character language.  The final composition must clearly communicate:  Human at the center. AI agents assisting. Hierarchy visible through scale and posture. Clean, structured, modern dominance.
+```
+
+# image 5
+
+<img width="1024" height="1024" alt="image (4)" src="https://github.com/user-attachments/assets/73d4b191-d62e-4f2e-86b3-4e4165cb69bd" />
+
