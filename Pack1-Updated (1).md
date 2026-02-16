@@ -118,42 +118,126 @@ Bold, clean, modern.
 
 ## 📌 Example Name
 
+## Example 1
+
 ### 🖼 Image
 
-![Whisk_295ee5c718636e0a8b8463d822a293e6dr](https://github.com/user-attachments/assets/926423a7-1df8-4d11-9430-53b7e5913604)
+![Whisk_db177d00fec4936a41c415aa1dd37957dr](https://github.com/user-attachments/assets/1dcaf88e-2855-467b-8d26-a885b91416dc)
+
 
 
 ### 📝 Prompt
 
 ```text
-Isometric 3D technical illustration of a CPU internal structure cutaway. Very light grey background. Exact same soft green and muted grey monochrome palette. Flat matte surfaces with subtle grainy edge texture. Thin dark outline strokes defining all geometry. Minimalistic, clean, structured composition.
+Isometric flat-style hard disk drive icon.
 
-Ultra-tight crop. 95–100% canvas fill. No margins. No outer whitespace. Outer geometry nearly touching all four canvas edges.
+Background: pure black (#000000).
+Ultra-tight crop.
 
-Design:
+Simple rectangular outer casing slab.
+Single circular platter slab centered inside.
+Minimal geometric actuator arm block.
 
-A square processor chip shown in isometric cutaway view.
-Top layer partially removed to reveal internal components.
+All elements use solid colors only:
 
-Visible internal zones:
+Outer body → deep charcoal.
+Platter → bright electric blue.
+Inner ring → vibrant violet.
+Actuator arm → cyan.
+Tiny accent line → lime.
 
-• Core blocks (multiple square processing units)
-• Cache memory slab (rectangular segmented block)
-• Central bus line (thicker horizontal pathway connecting cores)
+No textures.
+No engraving.
+No realism.
+No gradients.
+No glow.
+No shadows.
+No reflections.
 
-Each internal section clearly separated using stacked isometric layers.
+Single consistent thickness for all slabs.
+Thin clean outline strokes.
 
-Small clean engraved labels placed directly above each part:
-“Core”
-“Cache”
-“Bus”
+Flat vector feel but in isometric 3D orientation.
+Bold, clean, modern.
 
-No arrows.
-No floating nodes.
+```
+
+##  example 2
+
+## Image
+![Whisk_c73f41874ed80e9addd4f32ebbfaccb3dr](https://github.com/user-attachments/assets/7d69ed89-6c46-4e71-a41f-40c47276ed14)
+
+
+## Prompt 
+```
+Isometric flat-style RAM module icon.
+
+Background: pure black (#000000).
+Ultra-tight crop.
+
+Long rectangular slab.
+Equally spaced square chip slabs on top.
+Bottom edge with small rectangular contact blocks.
+
+Solid colors only:
+
+Board base → deep indigo.
+Memory chips → electric cyan.
+Contact pins → matte gold.
+Thin separator lines → violet.
+
+Uniform slab thickness.
+No micro detail.
+No textures.
+No gradients.
+No shadows.
 No glow.
 
-Depth only via layered stacking.
-Engineered clarity.
+Clean vector aesthetic.
+Precise alignment.
+Modern tech illustration style.
+
+```
+
+## Example 3
+
+## image 
+
+![Whisk_90e60f25f949744b1954b8481a439c67dr (1)](https://github.com/user-attachments/assets/a19e35fd-6a2c-4cd7-8c80-ef1f9f0acf58)
+
+## prompt 
+
+```
+Isometric flat-style CPU chip icon.
+
+Background: pure black (#000000).
+Ultra-tight crop.
+
+Square outer slab.
+Centered smaller square slab.
+Four symmetrical rectangular edge connector blocks.
+
+Solid colors only:
+
+Outer frame → dark titanium.
+Inner core → electric blue.
+Mid layer → vibrant purple.
+Edge connectors → lime green.
+
+No realism.
+No engraving.
+No texture.
+No gradients.
+No glow.
+No reflections.
+No shadows.
+
+Consistent slab thickness.
+Thin precise outline strokes.
+2D vector feel in 3D isometric orientation.
+Balanced symmetry.
+High contrast on black.
+
 ```
 
 ---
@@ -164,61 +248,84 @@ Engineered clarity.
 
 ### 🖼 Image
 
-![Whisk_2ced678bdfba7e495d74455c67373c1cdr](https://github.com/user-attachments/assets/38253fe6-bbdb-44bc-944c-77fc9787bd64)
+![Whisk_b202037bfe963d2bce84e264ee89f46edr](https://github.com/user-attachments/assets/e22d63d9-a4fb-416c-b7c5-622af6a8518c)
 
 ### 📝 Prompt
 
 ```text
-Isometric 3D technical illustration of a web request process flow. Very light grey background. Exact same soft green and muted grey monochrome palette. Flat matte surfaces with subtle grainy edge texture. Thin dark outline strokes defining all geometry. Minimalistic, clean, structured composition.
+Isometric flat-style architectural evolution of computers.
 
-Wide horizontal layout. Ultra-tight crop. The entire flow must fill 95–100% of the canvas edge-to-edge. No margins. No empty background areas.
+Background: pure black (#000000).
+Wide horizontal layout.
+Ultra-tight crop.
+Scene fills 95–100% canvas.
 
-Scene:
+Four evenly spaced device modules aligned on the same baseline.
 
-Five structured isometric blocks arranged left to right in a straight horizontal alignment:
+Stage 1 – Abacus
+Simple rectangular frame with horizontal rods and bead blocks.
+Solid warm amber color.
 
-Browser
+Stage 2 – Z1 Computer
+Box-shaped mechanical computing cabinet.
+Rectangular body with simple front grid detail.
+Solid steel blue color.
 
-DNS
+Stage 3 – Desktop Computer
+Flat monitor slab + small tower slab beside it.
+Solid electric violet color.
 
-Server
-
-Database
-
-Response
-
-Each stage represented by a distinct geometric block:
-
-• Browser → Laptop block
-• DNS → Compact resolver cube
-• Server → Stacked rack block
-• Database → Cylindrical stacked slab
-• Response → Arrow-shaped returning block
+Stage 4 – Laptop
+Ultra-thin open rectangular slab.
+Screen and base minimal geometry.
+Solid neon cyan color.
 
 Between each stage:
+Thick rectangular isometric arrow beams pointing right.
+Arrow beams same thickness as device slabs.
+Matte graphite color.
+Small white square data markers inside arrows.
 
-Straight rectangular connector beams with subtle arrow indicators showing direction.
-
-Small square data packets spaced along beams.
-
-Text Implementation:
-
-Each stage label must be placed on a recessed micro-plate embedded on front face.
-
-Text rules:
-• Solid pure white (#FFFFFF)
-• No gradient
-• No transparency
-• No glow
-• No outline
-• Large readable size
-• Center aligned
-
+All objects:
+Solid colors only.
+Flat matte.
+No gradients.
+No glow.
 No shadows.
-No dramatic lighting.
-Depth only via stacked isometric layering.
+Thin precise outline strokes.
+Consistent slab thickness.
+2D vector feel in 3D isometric orientation.
 
-The flow must clearly communicate request traveling right and response returning left.
+Silhouette clarity must communicate progression.
+Left objects slightly bulkier.
+Right objects thinner and more refined.
+
+Visual must feel structured,
+intentional,
+moderate complexity,
+and architecturally balanced.
+
+```
+## Example 2
+
+## Image 
+
+
+## Prompt 
+
+```
+
+```
+
+## Example 3
+
+## Image 
+
+
+## Prompt 
+
+```
+
 ```
 
 ---
@@ -332,6 +439,29 @@ Professional
 Minimal but intelligent
 ```
 
+
+## Example 2
+
+## Image 
+
+
+## Prompt 
+
+```
+
+```
+
+## Example 2
+
+## Image 
+
+
+## Prompt 
+
+```
+
+```
+
 ---
 
 # 5️⃣ ECOSYSTEM / ARCHITECTURE
@@ -426,6 +556,28 @@ When someone sees it:
 No clutter.
 No decorative chaos.
 Just architecture.
+```
+
+## Example 2
+
+## Image 
+
+
+## Prompt 
+
+```
+
+```
+
+## Example 2
+
+## Image 
+
+
+## Prompt 
+
+```
+
 ```
 
 ---
@@ -536,6 +688,28 @@ Self-explanatory
 Modern
 Professional
 Minimal but intelligent
+```
+
+## Example 2
+
+## Image 
+
+
+## Prompt 
+
+```
+
+```
+
+## Example 2
+
+## Image 
+
+
+## Prompt 
+
+```
+
 ```
 
 ---
