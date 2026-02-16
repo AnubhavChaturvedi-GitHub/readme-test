@@ -8,35 +8,37 @@
 
 ### 🖼 Image
 
-![Whisk_5b8a009d44a975f920a47a38f6d1d19ddr](https://github.com/user-attachments/assets/c1197bc1-1b95-429d-a333-4024bc158733)
+![Whisk_470955c2ffdcae0ac6940e38f47530f3dr (1)](https://github.com/user-attachments/assets/01de533b-4f3c-4344-967e-257a874e6230)
+
 
 
 ### 📝 Prompt
 
 ```text
-Isometric 3D technical illustration of a relational database table icon only. Very light grey background. Exact same soft green and muted grey monochrome palette. Flat matte surfaces with subtle grainy edge texture. Thin dark outline strokes defining all geometry. Minimalistic, clean, structured composition.
 
-Camera framing: Ultra-tight crop. The object must fill 95–100% of the canvas edge-to-edge. No margins. No outer whitespace. No empty background areas. The outermost geometry must nearly touch all four canvas edges.
+Isometric 3D relational database slab icon.
 
-Design:
+Background: pure black (#000000).
 
-A thick rectangular slab representing a database table.
-Top surface contains evenly spaced engraved grid cells.
-One visible side shows layered stacked row segments to indicate multiple rows.
-Centered engraved label on top surface: “SQL”.
+Top grid surface → bright cyan.
+Stacked row layers → electric blue.
+Inner base layer → deep navy.
+Thin acid green separation lines between layers.
 
-Perfect symmetry. Clean geometric proportions. Solid engineered feel.
+Engraved grid visible.
+Centered recessed plate labeled “SQL”.
+Text solid white (#FFFFFF).
 
-No floating elements.
-No connector lines.
-No nodes.
-No interaction elements.
-
+Flat matte surfaces.
 No gradients.
-No dramatic lighting.
-No external shadows.
-Depth created only using stacked isometric layers.
-Technical UI precision.
+No glow.
+No reflections.
+Ultra-tight crop.
+Icon fills 100% canvas.
+
+High contrast color separation.
+Crisp, bold, technical.
+
 ```
 
 
@@ -44,7 +46,8 @@ Technical UI precision.
 
 ### 🖼 Image
 
-![Whisk_be4a6a5fea89c14ad5546c931d833d86dr](https://github.com/user-attachments/assets/4624ca9d-56c9-4520-86a8-4bf24ee0bdbf)
+![Whisk_63ca3a8e5082b4cb3db44e02c5bf7513dr](https://github.com/user-attachments/assets/87332da8-2206-4204-87fe-f0debb0edcbc)
+
 
 ### 📝 Prompt
 
@@ -80,33 +83,33 @@ Technical UI precision. Clean, solid, symbolic.
 
 ### 🖼 Image
 
-![Whisk_c579c49f9c475ea9fb24abe14295deb1dr](https://github.com/user-attachments/assets/59ad3e90-c134-4229-8db3-7d9d89a015ff)
+
+![Whisk_ca5d126eb34f018812b41f3a29023262dr](https://github.com/user-attachments/assets/bc648d07-10ba-4399-b752-cfd57663e753)
 
 
 ```text
-Cloud Storage Icon
+Isometric 3D geometric cloud storage icon.
 
-Isometric 3D technical illustration of a cloud storage icon only. Very light grey background. Exact same soft green and muted grey monochrome palette. Flat matte surfaces with subtle grainy edge texture. Thin dark outline strokes defining all geometry. Minimalistic, clean, structured composition.
+Background: pure black (#000000).
 
-Camera framing: Ultra-tight crop. 95–100% canvas fill. No margins. No outer whitespace. Outer geometry nearly touching all four canvas edges.
+Upper cloud slabs → electric blue.
+Lower stacked base → vibrant violet.
+Internal support layer → deep indigo.
+Thin aqua separation lines between blocks.
 
-Design:
+Front recessed plate labeled “DATA”.
+Text solid white (#FFFFFF).
 
-A geometric cloud constructed from stacked rounded rectangular blocks.
-Cloud shape engineered and symmetrical — not cartoon fluffy.
-Centered recessed rectangular plate engraved with text “DATA”.
-Base slightly thicker for structural weight.
-
-No floating arrows.
-No connectors.
-No glow.
-No extra elements.
-
+Flat matte surfaces.
 No gradients.
-No dramatic lighting.
-No external shadows.
-Depth only via stacked isometric layers.
-Clean architectural precision.
+No glow.
+No reflections.
+Ultra-tight crop.
+
+Symmetrical engineered structure.
+High contrast against black.
+Bold, clean, modern.
+
 
 ```
 
